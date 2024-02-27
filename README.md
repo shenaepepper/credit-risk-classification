@@ -1,1 +1,3 @@
 # credit-risk-classification
+
+This code utilizes logistic regression, a machine learning algorithm, to predict loan statuses based on given features such as loan size, interest rate, borrower income, etc. It first reads a dataset containing loan data and splits it into training and testing sets. The logistic regression model is then trained on the training data and used to make predictions on the testing data. The code evaluates the model's performance using a confusion matrix and a classification report, which provide insights into how well the model predicts both healthy loans and high-risk loans. Overall, the model achieves high accuracy and demonstrates strong predictive capabilities for identifying loan statuses
